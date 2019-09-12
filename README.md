@@ -50,7 +50,7 @@ The standardization procedure is often used in the Machine Learning community an
 
 The formula used follows:
 
-$$ z = \dfrac{x - \mu_x}{\sigma_x}$$
+<img src="https://latex.codecogs.com/gif.latex?z = \dfrac{x - \mu_x}{\sigma_x} " / >
 
 where $\mu_x$ is the mean and $\sigma_x$ is the standard deviation with respect to the variable $x$.
 
